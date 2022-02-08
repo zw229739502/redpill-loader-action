@@ -6,8 +6,12 @@
     "mac1": "A74BC868779B"
   },
   "synoinfo": {
+    "maxdisks" : "16",
+    "internalportcfg" : "0xf006",
+    "esataportcfg" : "0x0ff9",
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
   },
-  "ramdisk_copy": {}
+  "ramdisk_copy": {},
+  "extensions": []
 }
